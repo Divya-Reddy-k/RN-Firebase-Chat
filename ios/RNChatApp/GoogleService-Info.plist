@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>831905209573-en362eq1j65dbor5c7jo7ulc9uhq1357.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.831905209573-en362eq1j65dbor5c7jo7ulc9uhq1357</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCCUlEF7CY8orbWaNDDJQFSdPNEUShYDSE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>831905209573</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.rnchatapp</string>
+	<key>PROJECT_ID</key>
+	<string>rnchatapp-38a2d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>rnchatapp-38a2d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:831905209573:ios:4e521f1facb087cbf9c80c</string>
+	<key>DATABASE_URL</key>
+	<string>https://rnchatapp-38a2d-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
